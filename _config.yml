@@ -157,8 +157,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "The NLP blog of GYC"
+#     subheading: "We are just fighting for the $ and the freedom!"
 #     banner: "Your image url"
 
 # Banner default settings
