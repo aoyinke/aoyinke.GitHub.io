@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Aoyink's blogs
-email: 1351058003@qq.com
-author: Aoyinke
+title: Your awesome title
+email: your-email@domain.com
+author: GitHub User
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -156,10 +156,10 @@ yat:
 
 # Page default value
 # defaults:
-home:
-    heading: "The NLP blog of GYC"
-    subheading: "We are just fighting for the $ and the freedom!"
-    banner: "Your image url"
+#   home:
+#     heading: "Your awesome heading"
+#     subheading: "Your awesome subheading"
+#     banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
